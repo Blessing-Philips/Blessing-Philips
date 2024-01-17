@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blessing-Philips
-- 👀 I’m interested in a lot of things 😂 ...like coding, photoshop, graphics design
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on...🤔🤔😊
+- 👀 I’m interested in coding, photography, stock market 
+- 🌱 I’m currently learning SQL and C# and working towards becoming a full-stack developer
+- 💞️ I’m looking to collaborate on open-source projects and internship placements. 
 - 📫 How to reach me @Blessingphilips57@gmail.com 
 
 <!---
